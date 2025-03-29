@@ -1,0 +1,40 @@
+# Ignore HELP.md (if you don't want to commit it)
+HELP.md
+
+# Maven output folders
+target/
+build/
+
+# Ignore the Maven wrapper files & folder
+.mvn/
+mvnw
+mvnw.cmd
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
