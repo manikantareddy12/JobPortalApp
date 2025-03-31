@@ -6,7 +6,6 @@ Job Portal is a web-based application built using Java, Spring Boot, JSP, and To
 - [Features](#features)
 - [Architecture](#architecture)
 - [Interface Snapshots](#interface-snapshots)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
